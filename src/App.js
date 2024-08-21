@@ -88,6 +88,7 @@ function App() {
                transition={{ duration: 0.6 }} 
                className="mt-2 list-disc list-inside"
              >
+               <li>Go</li>
                <li>C#/.Net</li>
                <li>Asp.NET</li>
                <li>Entity Framework</li>
